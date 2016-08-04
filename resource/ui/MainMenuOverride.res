@@ -2464,7 +2464,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"JoinMGEButton"
-		"xpos"			"260"
+		"xpos"			"185"
 		"ypos"			"194"
 		"zpos"			"11"
 		"wide"			"110"
