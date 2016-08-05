@@ -47,7 +47,7 @@
 	"JoinMGEButton"
 	{
 		"label" "Join MGE"
-		"command" "engine connect 94.23.69.228:27017; add 5"
+		"command" "engine connect 5.9.99.181:29050; add 5"
 		"subimage"	""
 		"OnlyAtMenu" "0"
 	}
